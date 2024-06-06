@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Paul</h1>
 <h3 align="center">A passionate Roboticist from India</h3>
 
-- 👨‍💻 All of my projects are available at [adityapaul03.github.io](adityapaul03.github.io)
-
 - 📫 How to reach me **aditya.paul@iitg.ac.in**
 
 <h3 align="left">Connect with me:</h3>

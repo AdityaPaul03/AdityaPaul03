@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI Engineer from India</h3>
 
 - 📫 How to reach me **aditya.paul@iitg.ac.in**
+- Portfolio <a href="https://aditya-pauls-portfolio.vercel.app/"> link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
